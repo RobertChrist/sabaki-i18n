@@ -1,3 +1,15 @@
+# Welcome to Robert Christ's fork of Sabaki il8n
+
+This fork contains new features that the parent Sabaki repository have not yet merged, and are still pending review.
+
+- **New Feature: Internationalization Support for Game Tree Annotations Options**
+  - Summary: Adds English, Spanish, French, and both traditional and simplified Chinese support for a new Sabaki "Game Tree Annotations Options" feature.
+  - Parent Repository Github Tracking Issue: https://github.com/SabakiHQ/Sabaki/issues/940  
+  - Stand-Alone Branch Name: feature/940_SupportGameTreeOptions
+  - Open PR Into Parent Repository: https://github.com/SabakiHQ/sabaki-i18n/pull/39
+
+Original Repository README below
+
 # Sabaki I18n [![CI Status](https://github.com/SabakiHQ/sabaki-i18n/workflows/CI/badge.svg?branch=master&event=push)](https://github.com/SabakiHQ/sabaki-i18n/actions) [![Daily Sync](https://github.com/SabakiHQ/sabaki-i18n/workflows/Daily%20Sync/badge.svg?branch=master)](https://github.com/SabakiHQ/sabaki-i18n/actions)
 
 Home of Sabaki's translation efforts.
