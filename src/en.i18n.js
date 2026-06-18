@@ -69,8 +69,8 @@ module.exports = {
     'Flatten': '&Flatten',
     'Remove Node': '&Remove Node',
     'Remove Other Variations': 'Remove &Other Variations',
-    'Annotate': 'Annotate',
-    'Toggle Show Comments': 'Toggle Show Comments'
+    'Annotate': '&Annotate',
+    'Add/View Comment': 'Add/&View Comment'
   },
   'menu.find': {
     'Find': 'Fin&d',

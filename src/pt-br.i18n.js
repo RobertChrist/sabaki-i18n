@@ -70,7 +70,7 @@ module.exports = {
     'Remove Node': '&Remover Nó',
     'Remove Other Variations': '&Remover Outras Variações',
     'Annotate': null,
-    'Toggle Show Comments': null
+    'Add/View Comment': null
   },
   'menu.find': {
     'Find': '&Procurar',

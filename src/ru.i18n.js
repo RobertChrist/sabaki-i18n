@@ -70,7 +70,7 @@ module.exports = {
     'Remove Node': 'Удалить',
     'Remove Other Variations': 'Удалить другие ветви',
     'Annotate': null,
-    'Toggle Show Comments': null
+    'Add/View Comment': null
   },
   'menu.find': {
     'Find': 'Найти',

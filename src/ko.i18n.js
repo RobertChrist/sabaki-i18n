@@ -70,7 +70,7 @@ module.exports = {
     'Remove Node': '노드 제거',
     'Remove Other Variations': '다른 변화도 삭제',
     'Annotate': null,
-    'Toggle Show Comments': null
+    'Add/View Comment': null
   },
   'menu.find': {
     'Find': '찾기',

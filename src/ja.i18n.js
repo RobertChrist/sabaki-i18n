@@ -70,7 +70,7 @@ module.exports = {
     'Remove Node': 'ノードを削除',
     'Remove Other Variations': '他の変化を削除',
     'Annotate': null,
-    'Toggle Show Comments': null
+    'Add/View Comment': null
   },
   'menu.find': {
     'Find': '探索',

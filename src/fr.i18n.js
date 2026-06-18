@@ -69,7 +69,7 @@ module.exports = {
     'Remove Node': 'Supprimer le Noeud',
     'Remove Other Variations': 'Supprimer les Autres Variations',
     'Annotate': 'Annoter',
-    'Toggle Show Comments': 'Basculer Afficher les Commentaires'
+    'Add/View Comment': 'Ajouter/Voir le Commentaire'
   },
   'menu.find': {
     'Find': 'Recherche',

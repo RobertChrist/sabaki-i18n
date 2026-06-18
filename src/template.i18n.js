@@ -63,7 +63,7 @@ module.exports = {
     'Remove Node': null,
     'Remove Other Variations': null,
     'Annotate': null,
-    'Toggle Show Comments': null
+    'Add/View Comment': null
   },
   'menu.find': {
     'Find': null,

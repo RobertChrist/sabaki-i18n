@@ -69,7 +69,7 @@ module.exports = {
     'Remove Node': '刪除節點',
     'Remove Other Variations': '刪除其他變化',
     'Annotate': '評註',
-    'Toggle Show Comments':  '切換顯示註釋'
+    'Add/View Comment': '新增/檢視註釋'
   },
   'menu.find': {
     'Find': '尋找',
